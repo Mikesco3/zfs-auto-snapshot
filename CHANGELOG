@@ -1,6 +1,6 @@
 [ 1.2.5-1 (Unreleased) ]
- - Mikesco3 removed utc DATE variable used in naming snapshots
- 
+ - Mikesco3 removed utc from DATE variable used in naming snapshots
+ -- Mikesco3 2021-01-08, 23:31 UTC
 [ 1.2.5 (Unreleased) ]
 
  * Start a changelog
