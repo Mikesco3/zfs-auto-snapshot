@@ -1,3 +1,6 @@
+[ 1.2.5-1 (Unreleased) ]
+ - Mikesco3 removed utc DATE variable used in naming snapshots
+ 
 [ 1.2.5 (Unreleased) ]
 
  * Start a changelog
